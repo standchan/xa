@@ -1,0 +1,4 @@
+rundir = /usr/local/xagent
+runcmd = sh start.sh
+match = ./bin/xagent
+profiles =
